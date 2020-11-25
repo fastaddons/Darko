@@ -5,3 +5,6 @@
 
 # Darko
 This repository is for tracking bugs and documentation only
+
+## Download:
+https://addons.thunderbird.net/thunderbird/addon/darko_t/
